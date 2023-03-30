@@ -12,7 +12,7 @@
 - Calculo 1
 - Calculo 2
 
-# ![fotografias](Jennifer.jfif)
+ <img src="Jennifer.jfif" width="300">
 
 ![Imagen remota](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLgW8Iw5rXFvhkw3-IW8S5FpB-Kd8v1YGAiQ&usqp=CAU)
 
